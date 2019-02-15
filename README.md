@@ -1,6 +1,6 @@
 ![](https://github.com/XradioTech/xradiotech-wiki/wiki/image/XRADIOTECHLOGO.png)
 
-中文 | EN
+中文 | [EN](https://github.com/XradioTech/xradiotech-wiki/wiki/README-EN)
 
 # [芯之联科技](https://github.com/XradioTech/xradiotech-wiki/wiki)
 
