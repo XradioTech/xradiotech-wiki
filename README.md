@@ -24,4 +24,17 @@
 地址: 深圳市南山区蛇口南海大道1069号联合大厦13楼  
 
 # 更多
-详细信息请前往wiki主页[【Xradiotech Wiki】](https://github.com/XradioTech/xradiotech-wiki/wiki)
+wiki主页：https://github.com/XradioTech/xradiotech-wiki/wiki
+芯片介绍：https://github.com/XradioTech/xradiotech-wiki/wiki/Products
+模组介绍：https://github.com/XradioTech/xradiotech-wiki/wiki/Products-Module
+开发板介绍：https://github.com/XradioTech/xradiotech-wiki/wiki/Products-EVB
+资料下载：https://github.com/XradioTech/xradiotech-wiki/wiki/Download
+开发指南：https://github.com/XradioTech/xradiotech-wiki/wiki/Developer
+购买样品：https://github.com/XradioTech/xradiotech-wiki/wiki/Store
+
+# SDK仓库
+https://github.com/XradioTech/XR871SDK.git
+https://github.com/XradioTech/XR809SDK.git
+https://github.com/XradioTech/AliOS-Things.git
+
+
